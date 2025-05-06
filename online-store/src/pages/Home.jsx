@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-// import Footer from "../components/Footer";
+import Footer from "../components/Footer";
 import '../styles/Home.css';
 import banner from '../images/banner.jpg';
 import img from '../images/img.jpeg';
@@ -92,7 +92,7 @@ function Home(){
                 <img src={watch} alt="" className="img" />
             </div>
     
-            {/* <Footer/> */}
+             <Footer/> 
         </div>
     );
 }
