@@ -19,7 +19,7 @@ function Contact() {
             <h1>Contact Us</h1>
             <div className='contactcontainer'>
                 <div className='containr1' id='contactForm'>
-                    <h2>Get In Touch</h2>
+                    <h2>Get In Touch..</h2>
                     <div>
                         <input className='contactElements' type='text' placeholder='Enter your name' id="name" />
                         </div>
