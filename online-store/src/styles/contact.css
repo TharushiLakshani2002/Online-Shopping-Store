@@ -59,7 +59,7 @@
 
 textarea.contactElements {
     resize: vertical;
-    min-height: 150px;
+    min-height: 140px;
 }
 
 #contactForm button {
