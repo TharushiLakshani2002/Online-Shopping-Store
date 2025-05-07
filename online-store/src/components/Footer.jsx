@@ -23,7 +23,7 @@ function Footer() {
                     websites for businesses of all sizes. Our team of 
                     experienced developers and designers work closely 
                     with clients to understand their unique needs and 
-                    deliver customized solutions that drive results.
+                    deliver customized solutions that drive results...
                 </p>
                 <div className="icons">
                     <li className="icon"><FacebookIcon /></li>
